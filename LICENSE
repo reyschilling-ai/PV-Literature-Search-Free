@@ -1,0 +1,39 @@
+Reinhold Schilling Literature Search Tool (Free Edition)
+Freeware Licence
+
+Copyright (c) 2026 Reinhold J. Schilling. All rights reserved.
+
+1. Grant of use
+   You may download and use this software free of charge, for private and for
+   professional purposes, including within your organisation.
+
+2. Restrictions
+   Without prior written permission of the copyright holder you may not:
+   a) redistribute, publish, sublicense, rent or sell the software or copies
+      of it, in whole or in part, including as part of another product;
+   b) modify, adapt, translate or create derivative works of the software;
+   c) remove or alter copyright notices, the name of the tool, its version or
+      edition marking, or its disclaimers.
+   Sharing a link to this repository or to schilling-vigilance.com is allowed.
+
+3. No validation, no warranty
+   The software is a prototype to support manual literature screening. It is
+   not a validated GxP system. It is provided "as is", without warranty of any
+   kind, express or implied, including fitness for a particular purpose. The
+   user remains responsible for validation, for qualified human review of all
+   results and for compliance with applicable pharmacovigilance requirements.
+
+4. Limitation of liability
+   To the extent permitted by law, the copyright holder is not liable for any
+   damages arising from the use of the software. Liability for intent, gross
+   negligence and injury to life, body or health remains unaffected.
+
+5. Third-party components
+   The software contains open-source components that remain subject to their
+   own licences (for example React, PDF.js, core-js, PDFObject). Their licence
+   terms apply to those components.
+
+6. Governing law
+   German law applies.
+
+Contact: contact@schilling-vigilance.com
